@@ -101,4 +101,4 @@ The model was deployed as a webservice and the inference config was called . It 
 ![Screenshot (53)](https://user-images.githubusercontent.com/111194883/185765006-1010aa1e-0988-46af-a6d1-6ffeab33729d.png)
 
 ## Screen Recording
-Link to screencast: 
+Link to screencast: https://youtu.be/xSKlwb8xhOI
